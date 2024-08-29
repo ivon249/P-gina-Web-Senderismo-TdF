@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Senderos en Rio Grande</h3>
+    <input id="ciudadrg" type="text">
+    <h3>Senderos en Tolhuin</h3>
+    <input id="ciudadth" type="text">
+    <h3>Senderos en Ushuaia</h3>
+    <input id="ciudadus" type="text">
+    
+    <ul>
+        <li class="ciudad">RIO GRANDE</li>
+        <li class="ciudad">TOLHUIN</li>
+        <li class="ciudad">USHUAIA</li>
+    </ul>
+    <div class="errores">
+        <ul></ul>
+       </div>
+
+       <h4>Agregar Senderos</h4>
+    <form id="SenderosForm">
+    <label for="nombre">Sendero Recorrido:</label><br>
+    <input type="text" id="nombre"><br><br>
+    <label for="dificultad">Dificultad</label><br>
+    <input type="text" id="dificultad"><br><br>
+    <label for="tiempoenhs">Tiempo en Horas</label><br>
+    <input type="number" id="tiempoenhs"><br><br>
+    <label for="distanciaenkm">Distancia en km</label><br>
+    <input type="number" id="distanciaenkm"><br><br>
+    <label for="distanciadesdeelcentro">Distancia desde el centro de la ciudad</label><br>
+    <input type="number" id="distanciadesdeelcentro"><br><br>
+    <input type="submit" value="Agregar Sendero">
+    </form>
+    
+    <h2>Senderos Recorridos:</h2>
+    <ul id="senderosList"></ul>
+
+    <script src="senderos3.js"></script>
+</body>
+<footer>
+    <p>(2024) - Peralta Viviana & Stefanoni Aylen</p></footer>
+</footer>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>  
+<html>  
+ <head>  
+  <meta charset="utf-8">  
+  <meta name="viewport" content="width=device-width">  
+  <title>Capturar formulario</title>  
+  <script type="text/javascript" src="formulario.js"></script>  
+  <link href="formulario.css" rel="stylesheet" type="text/css" />  
+ </head>  
+ <body>  
+  <h1>Registro de senderos recorridos</h1>  
+  <div class="box">  
+   <form action="#" method="POST" id="formulario" onsubmit="return false">  
+    <p>  
+     <label for="nombre">Nombre:</label>  
+     <input type="text" name="nombre" id="nombre" value="Sendero Laguna Sofía"/>  
+    </p>  
+    <p>  
+     <label for="dificultad">Dificultad:</label>  
+     <input type="text" name="dificultad" id="dificultad" value="Baja"/>  
+    </p>  
+    <p>  
+     <label for="distanciaenkm">Distancia en km:</label>  
+     <input type="number" name="distanciaenkm" id="distanciaenkm" value="4"/>  
+    </p>
+    <p>  
+    <label for="tiempoenhs">Tiempo en hs:</label>  
+    <input type="number" name="tiempoenhs" id="tiempoenhs" value="2"/>  
+    </p>    
+    <p>  
+     <input type="submit" value="Enviar" id="submit" />  
+    </p>  
+   </form>  
+  </div>  
+  <div class="box dashed">  
+   <h3>Información de los Senderos recorridos</h3>  
+   <hr>
+   <p id="sendero">
+    --Nombre del Sendero-- --Dificultad-- --Distancia en km-- --Tiempo en hs-- <span></span>
+   </p>
+  </div>  
+ </body>  
+ <footer>
+    <p>(2024) - Peralta Viviana & Stefanoni Aylen</p>
+</footer>
+</html>  

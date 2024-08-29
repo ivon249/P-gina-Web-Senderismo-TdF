@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* Reset */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Main Styling */
+html,
+body {
+	font-family: 'Montserrat', sans-serif;
+	color: indigo;
+}
+
+ul {
+	list-style: none;
+}
+
+img {
+	max-width: 100%;
+}
+
+p {
+	font-size: 1rem;
+	margin: 10px 0;
+	line-height: 1.5em;
+}
+
+a {
+	text-decoration: none;
+}
+
+/* Utility Classes */
+.container {
+	max-width: 1100px;
+	margin: 0 auto;
+	padding: 0 30px;
+}
+
+.large {
+	font-size: 20px;
+}
+
+.small {
+	font-size: 12px;
+}
+/* Mainbody */
+#mainbody {
+	background-image: linear-gradient(#63639b, #fff);
+	height: 100vh;
+}
+/* Navbar */
+.navbar {
+	height: 80px;
+}
+
+.navbar .logo a {
+	font-size: 1.9rem;
+	font-weight: bold;
+}
+
+.navbar a {
+	color: #47519a;
+	font-weight: 200;
+	font-size: 1rem;
+}
+
+.navbar .container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 100%;
+}
+
+.navbar ul {
+	display: flex;
+}
+
+.navbar ul li {
+	margin-left: 20px;
+}
+
+.mainnavbar {
+	background: #efeff5;
+}
+
+/* Cities */
+#cities {
+	padding: 20px 0;
+}
+
+.cities-riogrande {
+	background: #73b0d8;
+}
+.cities-tolhuin {
+	background: #c2d7d8;
+}
+.cities-ushuaia {
+	background: #47519a;
+}
+
+.cities-title {
+	margin: 20px 0;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 400px;
+	padding: 20px;
+	color: #fff;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 10px;
+}
+
+.cities-content p {
+	padding-bottom: 15px;
+}
+

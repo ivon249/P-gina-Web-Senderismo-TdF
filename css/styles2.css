@@ -1,0 +1,175 @@
+/* Reset */
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* Main Styling */
+html,
+body{
+  font-family: 'Roboto', sans-serif;
+  color: #47519a;
+}
+h2 {
+  font-size: 1.5rem;
+}
+
+p {
+  color: #0a0000;
+	font-size: 1rem;
+	margin: 10px 0;
+	line-height: 1.5em;
+}
+
+a {
+	text-decoration: none;
+  color: #4d4d4d;
+}
+
+/* Utility Classes */
+.container {
+	max-width: 1100px;
+	margin: 0 auto;
+	padding: 0 20px;
+  overflow: auto;
+}
+.btn {
+display: inline-block;
+font-size: 20px;
+color: #fff;
+padding: 10px 20px;
+border: none;
+}
+.btn-dark {
+  background: #4d4d4d;
+}
+.btn-dark:hover {
+  background: lightgrey;
+}
+.box{
+  width: 33.3%;
+  text-align: justify;
+  padding: 50px;
+  height: 250px;
+}
+
+/* Navbar */
+
+.navbar {
+	height: 80px;
+}
+
+.navbar .logo a {
+	font-size: 1.9rem;
+	font-weight: bold;
+}
+
+.navbar .logo span {
+	font-weight: 200;
+}
+
+.navbar .logo .logo1 {
+	font-weight: 200;
+}
+.navbar a {
+	color: #47519a;
+	font-weight: 200;
+	font-size: 1rem;
+}
+
+.navbar .container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 100%;
+}
+
+.navbar ul {
+	display: flex;
+  list-style: none;
+}
+
+.navbar ul li {
+	margin-left: 20px;
+}
+
+.mainnavbar {
+	background: #efeff5;
+}
+/* Mainbody */
+#mainbody {
+	background-image: linear-gradient(#efeff5, #fff);
+	height: 100vh;
+}
+.container {
+  margin: auto;
+  max-width: 1100px;
+  overflow: auto;
+  padding: 0 20px;
+}
+
+#contact {
+  color: #47519a;
+}
+
+#contact .form-group {
+    margin-bottom: 10px;
+  }
+  
+  #contact label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  #contact input,
+  #contact textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px #ddd solid;
+  }
+  
+  #contact textarea {
+    height: 150px;
+  }
+  
+  #contact input:focus,
+  #contact textarea:focus {
+    outline: none;
+    border-color: var(--main-color);
+  }
+
+#features-contact {
+  display: grid;
+  grid-template-columns: repeat(3, 3fr);
+  padding: 60px 20px 20px 20px;
+  width: 33.3%;
+  text-align: center;
+  gap: 10px;
+  height: 150px;
+}
+
+.bg-contact-1 {
+    background-image: url("../css/resources/images/contacto/c1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .bg-contact-2 {
+    background-image: url("../css/resources/images/contacto/c2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .bg-contact-3 {
+    background-image: url("../css/resources/images/contacto/c3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  /* Footer */
+#mainfooter {
+  text-align: center;
+	padding: 30px;
+}

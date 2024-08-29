@@ -1,0 +1,238 @@
+[
+{
+    "id": 1,
+    "nombre": "Sendero Laguna Sofía",
+    "dificultad": "Baja",
+    "distanciaenkm": 6,
+    "tiempoenhs": 2,
+    "distanciadesdelaciudad": 18,
+    "recorrido": false
+},
+{
+    "id": 2,
+    "nombre": "Sendero Mirador Cabo San Pablo",
+    "dificultad": "Baja",
+    "distanciaenkm": 4.4,
+    "tiempoenhs" : 2,
+    "distanciadesdelaciudad": 81,
+    "recorrido": false
+},
+{
+    "id": 3,
+    "nombre": "Sendero de la Ruca",
+    "dificultad": "Baja",
+    "distanciaenkm": 2.4,
+    "tiempoenhs" : 0.5,
+    "distanciadesdelaciudad": 64,
+    "recorrido": false
+},
+{
+    "id": 4,
+    "nombre": "Sendero Laguna Negra",
+    "dificultad": "Baja",
+    "distanciaenkm": 4,
+    "tiempoenhs" : 2,
+    "distanciadesdelaciudad": 2,
+    "recorrido": false
+},
+{
+    "id": 5,
+    "nombre": "Sendero al Lago Fagnano",
+    "dificultad": "Media",
+    "distanciaenkm": 12,
+    "tiempoenhs" : 4,
+    "distanciadesdelaciudad": 18,
+    "recorrido": false
+},
+{
+    "id": 6,
+    "nombre": "Sendero Laguna de los Patos",
+    "dificultad": "Baja",
+    "distanciaenkm": 0.5,
+    "tiempoenhs" : 0.5,
+    "distanciadesdelaciudad": 2,
+    "recorrido": false
+},
+{
+    "id": 7,
+    "nombre": "Sendero Punta Popper",
+    "dificultad": "Baja",
+    "distanciaenkm": 1.2,
+    "tiempoenhs" : 0.5,
+    "distanciadesdelaciudad": 2,
+    "recorrido": false
+},
+{
+    "id": 8,
+    "nombre": "Sendero Cabo Domingo",
+    "dificultad": "Baja",
+    "distanciaenkm": 0.5,
+    "tiempoenhs" : 0.5,
+    "distanciadesdelaciudad": 3,
+    "recorrido": false
+},
+{
+    "id": 9,
+    "nombre": "Sendero Cabo Peñas",
+    "dificultad": "Baja",
+    "distanciaenkm": 5,
+    "tiempoenhs" : 1.5,
+    "distanciadesdelaciudad": 15,
+    "recorrido": false
+},
+{
+    "id": 10,
+    "nombre": "Sendero Isla de los Lobos",
+    "dificultad": "Baja",
+    "distanciaenkm": 2,
+    "tiempoenhs" : 0.5,
+    "distanciadesdelaciudad": " ",
+    "recorrido": false
+},
+{
+    "id": 11,
+    "nombre": "Sendero Bahía San Sebastián",
+    "dificultad": "Baja",
+    "distanciaenkm": 0.5,
+    "tiempoenhs" : 0.5,
+    "distanciadesdelaciudad": 80,
+    "recorrido": false
+},
+{
+    "id": 12,
+    "nombre": "Sendero Estancia Túnel",
+    "dificultad": "Baja",
+    "distanciaenkm": 5,
+    "tiempoenhs" : 3,
+    "distanciadesdelaciudad": 12,
+    "recorrido": false
+},
+{
+    "id": 13,
+    "nombre": "Senda de la Baliza",
+    "dificultad": "Baja",
+    "distanciaenkm": 1.2,
+    "tiempoenhs" : 0.5,
+    "distanciadesdelaciudad": 12,
+    "recorrido": false
+},
+{
+    "id": 14,
+    "nombre": "Sendero de los Humedales",
+    "dificultad": "Baja",
+    "distanciaenkm": 4,
+    "tiempoenhs" : 2.5,
+    "distanciadesdelaciudad": 8,
+    "recorrido": false
+},
+{
+    "id": 15,
+    "nombre": "Sendero Laguna Encantada",
+    "dificultad": "Media",
+    "distanciaenkm": 8,
+    "tiempoenhs" : 5,
+    "distanciadesdelaciudad": 8,
+    "recorrido": false
+},
+{
+    "id": 16,
+    "nombre": "Sendero Mirador del Valle de Andorra",
+    "dificultad": "Media",
+    "distanciaenkm": 7,
+    "tiempoenhs" : 4,
+    "distanciadesdelaciudad": 8,
+    "recorrido": false
+},
+{
+    "id": 17,
+    "nombre": "Sendero al Glaciar Vinciguerra",
+    "dificultad": "Media",
+    "distanciaenkm": 10,
+    "tiempoenhs" : 9,
+    "distanciadesdelaciudad": 8,
+    "recorrido": false
+},
+{
+    "id": 18,
+    "nombre": "Senda Costera del PNTdF",
+    "dificultad": "Media",
+    "distanciaenkm": 8,
+    "tiempoenhs" : 4,
+    "distanciadesdelaciudad": 15,
+    "recorrido": false
+},
+{
+    "id": 19,
+    "nombre": "Sendero Cerro Guanaco del PNTdF",
+    "dificultad": "Alta",
+    "distanciaenkm": 8,
+    "tiempoenhs" : 8,
+    "distanciadesdelaciudad": 12,
+    "recorrido": false
+},
+{
+    "id": 20,
+    "nombre": "Sendero Mirador del Glaciar Martial",
+    "dificultad": "Alta",
+    "distanciaenkm": 6,
+    "tiempoenhs" : 4,
+    "distanciadesdelaciudad": 7,
+    "recorrido": false
+},
+{
+    "id": 21,
+    "nombre": "Sendero del Filo del Glaciar Martial",
+    "dificultad": "Media",
+    "distanciaenkm": 5,
+    "tiempoenhs" : 3,
+    "distanciadesdelaciudad": 7,
+    "recorrido": false
+},
+{
+    "id": 22,
+    "nombre": "Sendero a la Cascada Bebán",
+    "dificultad": "Media",
+    "distanciaenkm": 10,
+    "tiempoenhs" : 4,
+    "distanciadesdelaciudad": 17,
+    "recorrido": false
+},
+{
+    "id": 23,
+    "nombre": "Sendero Laguna Esmeralda",
+    "dificultad": "Media",
+    "distanciaenkm": 9,
+    "tiempoenhs" : 5,
+    "distanciadesdelaciudad": 18,
+    "recorrido": false
+},
+{
+    "id": 24,
+    "nombre": "Sendero Laguna Turquesa",
+    "dificultad": "Media",
+    "distanciaenkm": 3,
+    "tiempoenhs" : 3,
+    "distanciadesdelaciudad": 17.5,
+    "recorrido": false
+},
+{
+    "id": 25,
+    "nombre": "Sendero Cascada y Laguna Submarino",
+    "dificultad": "Media",
+    "distanciaenkm": 12,
+    "tiempoenhs" : 7,
+    "distanciadesdelaciudad": 20,
+    "recorrido": false
+},
+{
+    "id": 26,
+    "nombre": "Sendero Laguna del los Perros y Laguna Fiel",
+    "dificultad": "Media",
+    "distanciaenkm": 6,
+    "tiempoenhs" : 4,
+    "distanciadesdelaciudad": 56,
+    "recorrido": false
+}
+]
+
+    
